@@ -1,2 +1,2 @@
-# My-own-G
-game
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
